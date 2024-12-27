@@ -1,0 +1,15 @@
+E:\program test\C#\thuchanhltwindows\tuan5\tuan5.BUS\bin\Debug\tuan5.BUS.dll.config
+E:\program test\C#\thuchanhltwindows\tuan5\tuan5.BUS\bin\Debug\tuan5.BUS.dll
+E:\program test\C#\thuchanhltwindows\tuan5\tuan5.BUS\bin\Debug\tuan5.BUS.pdb
+E:\program test\C#\thuchanhltwindows\tuan5\tuan5.BUS\bin\Debug\EntityFramework.dll
+E:\program test\C#\thuchanhltwindows\tuan5\tuan5.BUS\bin\Debug\EntityFramework.SqlServer.dll
+E:\program test\C#\thuchanhltwindows\tuan5\tuan5.BUS\bin\Debug\tuan5.DAL.dll
+E:\program test\C#\thuchanhltwindows\tuan5\tuan5.BUS\bin\Debug\tuan5.DAL.pdb
+E:\program test\C#\thuchanhltwindows\tuan5\tuan5.BUS\bin\Debug\tuan5.DAL.dll.config
+E:\program test\C#\thuchanhltwindows\tuan5\tuan5.BUS\bin\Debug\EntityFramework.xml
+E:\program test\C#\thuchanhltwindows\tuan5\tuan5.BUS\bin\Debug\EntityFramework.SqlServer.xml
+E:\program test\C#\thuchanhltwindows\tuan5\tuan5.BUS\obj\Debug\tuan5.BUS.csproj.AssemblyReference.cache
+E:\program test\C#\thuchanhltwindows\tuan5\tuan5.BUS\obj\Debug\tuan5.BUS.csproj.CoreCompileInputs.cache
+E:\program test\C#\thuchanhltwindows\tuan5\tuan5.BUS\obj\Debug\tuan5.BUS.csproj.Up2Date
+E:\program test\C#\thuchanhltwindows\tuan5\tuan5.BUS\obj\Debug\tuan5.BUS.dll
+E:\program test\C#\thuchanhltwindows\tuan5\tuan5.BUS\obj\Debug\tuan5.BUS.pdb
